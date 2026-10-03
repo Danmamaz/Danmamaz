@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  Hi, I'm Danylo <img src="./assets/icons/wave.svg" width="36" align="center" alt="">
+  Hi, I'm Danylo <img src="./assets/icons/wave.svg" width="32" align="absmiddle" alt="">
 </h1>
 
 <p align="center">
@@ -12,83 +12,77 @@
 </p>
 
 <p align="center">
-  <a href="mailto:lytvyndanmamaz@gmail.com"><img src="./assets/icons/email.svg" width="40" alt="Email"></a>&nbsp;
-  <a href="https://www.linkedin.com/in/danylo-lytvyn"><img src="./assets/icons/linkedin.svg" width="40" alt="LinkedIn"></a>&nbsp;
-  <a href="https://www.youtube.com/@Danmamaz"><img src="./assets/icons/youtube.svg" width="40" alt="YouTube"></a>&nbsp;
-  <a href="https://www.instagram.com/danmamaz_dev"><img src="./assets/icons/instagram.svg" width="40" alt="Instagram"></a>&nbsp;
-  <a href="https://danmamaz.itch.io"><img src="./assets/icons/itchio.svg" width="40" alt="itch.io"></a>&nbsp;
-  <a href="https://t.me/danmamaz"><img src="./assets/icons/telegram.svg" width="40" alt="Telegram"></a>
+  <a href="mailto:lytvyndanmamaz@gmail.com"><img src="./assets/icons/email.svg" width="30" alt="Email"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/danylo-lytvyn"><img src="./assets/icons/linkedin.svg" width="30" alt="LinkedIn"></a>&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@Danmamaz"><img src="./assets/icons/youtube.svg" width="30" alt="YouTube"></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/danmamaz_dev"><img src="./assets/icons/instagram.svg" width="30" alt="Instagram"></a>&nbsp;&nbsp;
+  <a href="https://danmamaz.itch.io"><img src="./assets/icons/itchio.svg" width="30" alt="itch.io"></a>&nbsp;&nbsp;
+  <a href="https://t.me/danmamaz"><img src="./assets/icons/telegram.svg" width="30" alt="Telegram"></a>
 </p>
 
 ---
 
-<h2><img src="./assets/icons/compass.svg" width="28" align="center" alt=""> What I Do</h2>
+<h2><img src="./assets/icons/compass.svg" width="24" align="absmiddle" alt="">&nbsp;What I Do</h2>
 
 <table>
   <tr>
-    <td width="56" align="center"><img src="./assets/icons/gamepad.svg" width="40" alt=""></td>
-    <td><b>Game Development</b><br>Gameplay programming, game mechanics & systems design, prototyping, tools and editor scripting</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="./assets/icons/automation.svg" width="40" alt=""></td>
-    <td><b>Automation Systems</b><br>Pipelines and tools that take repetitive work off people's hands</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="./assets/icons/architecture.svg" width="40" alt=""></td>
-    <td><b>Systems Architecture</b><br>Designing clean, scalable structures for code, projects and workflows</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="./assets/icons/ai.svg" width="40" alt=""></td>
-    <td><b>AI Integration</b><br>Building AI-powered tools and bringing language models into real workflows</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="./assets/icons/teaching.svg" width="40" alt=""></td>
-    <td><b>Teaching & Mentoring</b><br>Guiding beginners through game development from first steps to finished projects</td>
+    <td align="center" width="20%"><img src="./assets/icons/gamepad.svg" width="36" alt=""><br><b>Game Developer</b></td>
+    <td align="center" width="20%"><img src="./assets/icons/automation.svg" width="36" alt=""><br><b>Automation Engineer</b></td>
+    <td align="center" width="20%"><img src="./assets/icons/architecture.svg" width="36" alt=""><br><b>Systems Architect</b></td>
+    <td align="center" width="20%"><img src="./assets/icons/ai.svg" width="36" alt=""><br><b>AI Integration Engineer</b></td>
+    <td align="center" width="20%"><img src="./assets/icons/teaching.svg" width="36" alt=""><br><b>Teacher & Mentor</b></td>
   </tr>
 </table>
 
-<h2><img src="./assets/icons/experience.svg" width="28" align="center" alt=""> Experience</h2>
+<h2><img src="./assets/icons/experience.svg" width="24" align="absmiddle" alt="">&nbsp;Experience</h2>
 
 <table>
   <tr>
-    <td width="56" align="center"><img src="./assets/icons/gamepad.svg" width="32" alt=""></td>
+    <td width="48" align="center"><img src="./assets/icons/gamepad.svg" width="24" alt=""></td>
     <td>Game Development</td>
     <td align="center"><b>3+ years</b></td>
   </tr>
   <tr>
-    <td align="center"><img src="./assets/icons/automation.svg" width="32" alt=""></td>
+    <td align="center"><img src="./assets/icons/automation.svg" width="24" alt=""></td>
     <td>Automation & Systems Architecture</td>
     <td align="center"><b>1+ years</b></td>
   </tr>
   <tr>
-    <td align="center"><img src="./assets/icons/teaching.svg" width="32" alt=""></td>
+    <td align="center"><img src="./assets/icons/teaching.svg" width="24" alt=""></td>
     <td>Teaching & Mentoring</td>
     <td align="center"><b>1+ years</b></td>
   </tr>
 </table>
 
-<h2><img src="./assets/icons/stack.svg" width="28" align="center" alt=""> Tech Stack</h2>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,py,unity,godot,git" alt="C#, Python, Unity, Godot, Git">
-</p>
-
-<h2><img src="./assets/icons/languages.svg" width="28" align="center" alt=""> Languages</h2>
-
-<p>
-  <img src="./assets/icons/flag-ua.svg" width="30" align="center" alt=""> Ukrainian&nbsp;&nbsp;&nbsp;
-  <img src="./assets/icons/flag-gb.svg" width="30" align="center" alt=""> English
-</p>
+<table>
+  <tr>
+    <td valign="top">
+      <h3><img src="./assets/icons/stack.svg" width="22" align="absmiddle" alt="">&nbsp;Tech Stack</h3>
+      <img src="./assets/icons/csharp.svg" width="34" alt="C#" title="C#">&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/python/8B949E" width="34" alt="Python" title="Python">&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/unity/8B949E" width="34" alt="Unity" title="Unity">&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/godotengine/8B949E" width="34" alt="Godot" title="Godot">&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/git/8B949E" width="34" alt="Git" title="Git">
+      <br><sub>C# · Python · Unity · Godot · Git</sub>
+    </td>
+    <td valign="top">
+      <h3><img src="./assets/icons/languages.svg" width="22" align="absmiddle" alt="">&nbsp;Languages</h3>
+      <img src="./assets/icons/lang-ua.svg" width="42" alt="UA" title="Ukrainian">&nbsp;&nbsp;
+      <img src="./assets/icons/lang-en.svg" width="42" alt="EN" title="English">
+      <br><sub>Ukrainian · English</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
-<h3 align="center"><img src="./assets/icons/connect.svg" width="24" align="center" alt=""> Let's connect</h3>
+<h3 align="center"><img src="./assets/icons/connect.svg" width="22" align="absmiddle" alt="">&nbsp;Let's connect</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/danylo-lytvyn"><img src="./assets/icons/linkedin.svg" width="32" alt="LinkedIn"></a>&nbsp;
-  <a href="https://www.youtube.com/@Danmamaz"><img src="./assets/icons/youtube.svg" width="32" alt="YouTube"></a>&nbsp;
-  <a href="https://www.instagram.com/danmamaz_dev"><img src="./assets/icons/instagram.svg" width="32" alt="Instagram"></a>&nbsp;
-  <a href="https://danmamaz.itch.io"><img src="./assets/icons/itchio.svg" width="32" alt="itch.io"></a>&nbsp;
-  <a href="https://t.me/danmamaz"><img src="./assets/icons/telegram.svg" width="32" alt="Telegram"></a>&nbsp;
-  <a href="mailto:lytvyndanmamaz@gmail.com"><img src="./assets/icons/email.svg" width="32" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/danylo-lytvyn"><img src="./assets/icons/linkedin.svg" width="26" alt="LinkedIn"></a>&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@Danmamaz"><img src="./assets/icons/youtube.svg" width="26" alt="YouTube"></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/danmamaz_dev"><img src="./assets/icons/instagram.svg" width="26" alt="Instagram"></a>&nbsp;&nbsp;
+  <a href="https://danmamaz.itch.io"><img src="./assets/icons/itchio.svg" width="26" alt="itch.io"></a>&nbsp;&nbsp;
+  <a href="https://t.me/danmamaz"><img src="./assets/icons/telegram.svg" width="26" alt="Telegram"></a>&nbsp;&nbsp;
+  <a href="mailto:lytvyndanmamaz@gmail.com"><img src="./assets/icons/email.svg" width="26" alt="Email"></a>
 </p>
