@@ -22,57 +22,81 @@
 
 ---
 
-<h2><img src="./assets/icons/compass.svg" width="24" align="absmiddle" alt="">&nbsp;What I Do</h2>
+<h2 align="center"><img src="./assets/icons/compass.svg" width="24" align="absmiddle" alt="">&nbsp;What I Do</h2>
 
+<div align="center">
 <table>
   <tr>
-    <td align="center" width="20%"><img src="./assets/icons/gamepad.svg" width="36" alt=""><br><b>Game Developer</b></td>
-    <td align="center" width="20%"><img src="./assets/icons/automation.svg" width="36" alt=""><br><b>Automation Engineer</b></td>
-    <td align="center" width="20%"><img src="./assets/icons/architecture.svg" width="36" alt=""><br><b>Systems Architect</b></td>
-    <td align="center" width="20%"><img src="./assets/icons/ai.svg" width="36" alt=""><br><b>AI Integration Engineer</b></td>
-    <td align="center" width="20%"><img src="./assets/icons/teaching.svg" width="36" alt=""><br><b>Teacher & Mentor</b></td>
-  </tr>
-</table>
-
-<h2><img src="./assets/icons/experience.svg" width="24" align="absmiddle" alt="">&nbsp;Experience</h2>
-
-<table>
-  <tr>
-    <td width="48" align="center"><img src="./assets/icons/gamepad.svg" width="24" alt=""></td>
-    <td>Game Development</td>
-    <td align="center"><b>3+ years</b></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="./assets/icons/automation.svg" width="24" alt=""></td>
-    <td>Automation & Systems Architecture</td>
-    <td align="center"><b>1+ years</b></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="./assets/icons/teaching.svg" width="24" alt=""></td>
-    <td>Teaching & Mentoring</td>
-    <td align="center"><b>1+ years</b></td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td valign="top">
-      <h3><img src="./assets/icons/stack.svg" width="22" align="absmiddle" alt="">&nbsp;Tech Stack</h3>
-      <img src="./assets/icons/csharp.svg" width="34" alt="C#" title="C#">&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/python/8B949E" width="34" alt="Python" title="Python">&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/unity/8B949E" width="34" alt="Unity" title="Unity">&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/godotengine/8B949E" width="34" alt="Godot" title="Godot">&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/git/8B949E" width="34" alt="Git" title="Git">
-      <br><sub>C# · Python · Unity · Godot · Git</sub>
+    <td align="center" valign="top" width="20%">
+      <img src="./assets/icons/gamepad.svg" width="36" alt=""><br>
+      <b>Game Developer</b><br>
+      <sub>Gameplay programming, mechanics & systems design, prototyping, tools</sub>
     </td>
-    <td valign="top">
-      <h3><img src="./assets/icons/languages.svg" width="22" align="absmiddle" alt="">&nbsp;Languages</h3>
-      <img src="./assets/icons/lang-ua.svg" width="42" alt="UA" title="Ukrainian">&nbsp;&nbsp;
-      <img src="./assets/icons/lang-en.svg" width="42" alt="EN" title="English">
+    <td align="center" valign="top" width="20%">
+      <img src="./assets/icons/automation.svg" width="36" alt=""><br>
+      <b>Automation Engineer</b><br>
+      <sub>Pipelines and tools that take repetitive work off people's hands</sub>
+    </td>
+    <td align="center" valign="top" width="20%">
+      <img src="./assets/icons/architecture.svg" width="36" alt=""><br>
+      <b>Systems Architect</b><br>
+      <sub>Clean, scalable structures for code, projects and workflows</sub>
+    </td>
+    <td align="center" valign="top" width="20%">
+      <img src="./assets/icons/ai.svg" width="36" alt=""><br>
+      <b>AI Integration Engineer</b><br>
+      <sub>AI-powered tools and language models in real workflows</sub>
+    </td>
+    <td align="center" valign="top" width="20%">
+      <img src="./assets/icons/teaching.svg" width="36" alt=""><br>
+      <b>Teacher & Mentor</b><br>
+      <sub>Guiding beginners from first steps to finished projects</sub>
+    </td>
+  </tr>
+</table>
+</div>
+
+<br>
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" valign="top">
+      <h3 align="center"><img src="./assets/icons/experience.svg" width="22" align="absmiddle" alt="">&nbsp;Experience</h3>
+      <table>
+        <tr>
+          <td align="center"><img src="./assets/icons/gamepad.svg" width="22" alt=""></td>
+          <td>Game Development</td>
+          <td align="center"><b>3+ years</b></td>
+        </tr>
+        <tr>
+          <td align="center"><img src="./assets/icons/automation.svg" width="22" alt=""></td>
+          <td>Automation & Systems Architecture</td>
+          <td align="center"><b>1+ years</b></td>
+        </tr>
+        <tr>
+          <td align="center"><img src="./assets/icons/teaching.svg" width="22" alt=""></td>
+          <td>Teaching & Mentoring</td>
+          <td align="center"><b>1+ years</b></td>
+        </tr>
+      </table>
+    </td>
+    <td align="center" valign="top">
+      <h3 align="center"><img src="./assets/icons/stack.svg" width="22" align="absmiddle" alt="">&nbsp;Tech Stack</h3>
+      <img src="./assets/icons/csharp.svg" width="32" alt="C#" title="C#">&nbsp;
+      <img src="https://cdn.simpleicons.org/python/8B949E" width="32" alt="Python" title="Python">&nbsp;
+      <img src="https://cdn.simpleicons.org/unity/8B949E" width="32" alt="Unity" title="Unity">&nbsp;
+      <img src="https://cdn.simpleicons.org/godotengine/8B949E" width="32" alt="Godot" title="Godot">&nbsp;
+      <img src="https://cdn.simpleicons.org/git/8B949E" width="32" alt="Git" title="Git">
+      <br><sub>C# · Python · Unity · Godot · Git</sub>
+      <h3 align="center"><img src="./assets/icons/languages.svg" width="22" align="absmiddle" alt="">&nbsp;Languages</h3>
+      <img src="./assets/icons/lang-ua.svg" width="40" alt="UA" title="Ukrainian">&nbsp;&nbsp;
+      <img src="./assets/icons/lang-en.svg" width="40" alt="EN" title="English">
       <br><sub>Ukrainian · English</sub>
     </td>
   </tr>
 </table>
+</div>
 
 ---
 
